@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Soha, and I'm 20 years old. 
-- I'm from Madina Saudi Arabia 
-- Frontend Developer
-- Currently I'm student at Taibahu University
+- I’m Soha, and I'm 20 years old. 
+- I'm from Madina, Saudi Arabia 🇸🇦
+- Frontend Developer 👩🏽‍💻 🌐
+- Currently I'm student at Taibahu University 📄✏️
 
 
 <!---
