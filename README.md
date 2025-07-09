@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soha Abderrahman. 
+- 👋 Hi, I’m Suha Abdulrahman. 
 - I'm from Madina, Saudi Arabia 🇸🇦
 - Frontend Developer 👩🏽‍💻 🌐
 - Currently I'm student at Taibahu University 📄✏️
