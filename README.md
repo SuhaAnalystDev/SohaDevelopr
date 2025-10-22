@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suha Abdulrahman. 
 - I'm from Madina, Saudi Arabia 🇸🇦
-- Frontend Developer 👩🏽‍💻 🌐
-- Currently, I'm a Fresh Graduate in CS From Taibahu University
+- I'm a Fresh Graduate in CS From Taibahu University
+- Data Analyst 🧐📊, Frontend Developer 👩🏽‍💻 🌐
 - My Website Portfolio https://suha-portfolio.netlify.app/
 
 
